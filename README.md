@@ -19,7 +19,7 @@ The commands were built using the **[click](https://click.palletsprojects.com/en
 ### Demo
 
 - `concat_files`:  
-  <img src="https://github.com/maryjonah-turntabl/Mary-Python-Automation/blob/main/img/concat_file_img.PNG" width="600" height="150">
+  <img src="https://github.com/maryjonah-turntabl/Mary-Python-Automation/blob/main/img/concat_file_img.PNG" width="600" height="300">
 
 ### Running Tests
 
