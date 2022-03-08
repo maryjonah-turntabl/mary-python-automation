@@ -11,10 +11,11 @@ The commands were built using the **[click](https://click.palletsprojects.com/en
 
 ### Commands
 
-- `concat_files`
+- `concat_files`:
 
   - Takes multiple text files and joins the contents into an output file.
   - The output file should be specified last and does not need to exist.
+  - _[Implementation](https://github.com/maryjonah-turntabl/mary-python-automation/blob/main/click_tools/file_concat.py)_
 
 ### Demo
 
