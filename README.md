@@ -1,7 +1,7 @@
 ## Click Tools
 
 A set of commands to automate some processes.  
-The application uses **[click](https://click.palletsprojects.com/en/8.0.x/)** Python package.
+The commands were built using the **[click](https://click.palletsprojects.com/en/8.0.x/)** Python package.
 
 ### Setup
 
@@ -11,9 +11,15 @@ The application uses **[click](https://click.palletsprojects.com/en/8.0.x/)** Py
 
 ### Commands
 
-- `concat-files`
+- `concat_files`
+
   - Takes multiple text files and joins the contents into an output file.
   - The output file should be specified last and does not need to exist.
+
+### Demo
+
+- `concat_files`:  
+  <img src="https://github.com/maryjonah-turntabl/Mary-Python-Automation/blob/main/img/concat_file_img.PNG" width="600" height="150">
 
 ### Running Tests
 
