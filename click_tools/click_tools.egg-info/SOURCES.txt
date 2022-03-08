@@ -1,0 +1,8 @@
+file_concat.py
+setup.py
+click_tools.egg-info/PKG-INFO
+click_tools.egg-info/SOURCES.txt
+click_tools.egg-info/dependency_links.txt
+click_tools.egg-info/entry_points.txt
+click_tools.egg-info/requires.txt
+click_tools.egg-info/top_level.txt
