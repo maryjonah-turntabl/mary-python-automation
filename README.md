@@ -29,7 +29,7 @@ The commands were built using the **[click](https://click.palletsprojects.com/en
   <img src="https://github.com/maryjonah-turntabl/Mary-Python-Automation/blob/main/img/concat_file_img.PNG" width="600" height="300">
 
 - `confirm_ttlbr`:  
-  <img src="https://github.com/maryjonah-turntabl/Mary-Python-Automation/blob/main/img/confirm_ttlbr.PNG" width="600" height="300">
+  <img src="https://github.com/maryjonah-turntabl/Mary-Python-Automation/blob/main/img/confirm_ttlbr.PNG" width="500" height="300">
 
 ### Running Tests
 
