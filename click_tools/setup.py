@@ -11,7 +11,8 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'concat_files=file_concat:concat_files'
+            'concat_files=file_concat:concat_files',
+            'confirm_ttlbr=confirm_ttblr:login'
         ]
     }
 )
