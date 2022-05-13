@@ -21,7 +21,7 @@ The commands were built using the **[click](https://click.palletsprojects.com/en
 
   - A command to confirm a if a user works at turntabl using their email address.
   - Displays a welcome message with the user's name in title case else informs user the service is available to staff only.
-  - _[Implementation](https://github.com/maryjonah-turntabl/mary-python-automation/blob/main/click_tools/confirm_ttlbrr.py)_
+  - _[Implementation](https://github.com/maryjonah-turntabl/mary-python-automation/blob/main/click_tools/confirm_ttblr.py)_
 
 ### Demo
 
